@@ -1,6 +1,4 @@
 function Options({ question, dispatch, answer }) {
-    console.log(question);
-    console.log(answer);
     return (
         <div className="options">
             {
